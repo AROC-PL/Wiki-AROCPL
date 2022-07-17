@@ -8,6 +8,8 @@ Kontes Robot Indonesia merupakan kegiatan kompetisi yang ditujukan untuk para ma
 ### KRSBI - Humanoid
 Kontes Robot Sepak Bola Indonesia (KRSBI) Humanoid merupakan divisi lomba yang mengacu pada KidSize RoboCup Soccer Humanoid League. Robot Humanoid adalah robot dengan tampilan umum menyerupai tubuh manusia dengan struktur tubuh berupa kepala, duan tangan , dan dua kaki. Robot Humanoid dilengkapi dengan kecerdasan buatan yang memungkinkan untuk robot melakukan interaksi seperti manusia.
 
+<img src="https://github.com/zuramaruu/Delta456/blob/master/img/aroc.JPG" width="300">
+
 ### AROC_PL Team
 
 [//]: # (<img src="https://drive.google.com/file/d/1loEV-a4XKucrKhnurl5bk85IJdgNl935/view?usp=sharing" alt="github logo">)
