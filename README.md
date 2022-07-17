@@ -1,6 +1,6 @@
 ## 👋 KRSBI-H AROC_PL Team !  
 
-[//]: # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="12px">
+[//]: # (<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px">)
   
 [//]: # (:heart: Programming | :black_heart: K-pop | :blue_heart: Anime)
   
@@ -12,7 +12,7 @@ Kontes Robot Indonesia merupakan kegiatan kompetisi yang ditujukan untuk para ma
 <img src="https://github.com/zuramaruu/Delta456/blob/master/img/aroc.JPG" width="300" alt="aroc">
 </p>
 
-Kontes Robot Sepak Bola Indonesia (KRSBI) Humanoid merupakan divisi lomba yang mengacu pada KidSize RoboCup Soccer Humanoid League. Robot Humanoid adalah robot dengan tampilan umum menyerupai tubuh manusia dengan struktur tubuh berupa kepala, dua tangan , dan dua kaki. Robot Humanoid dilengkapi dengan kecerdasan buatan yang memungkinkan untuk robot melakukan interaksi seperti manusia.
+Kontes Robot Sepak Bola Indonesia (KRSBI) Humanoid merupakan divisi lomba yang mengacu pada KidSize RoboCup Soccer Humanoid League. Robot Humanoid adalah robot dengan tampilan umum menyerupai tubuh manusia dengan struktur tubuh berupa kepala, duan tangan , dan dua kaki. Robot Humanoid dilengkapi dengan kecerdasan buatan yang memungkinkan untuk robot melakukan interaksi seperti manusia.
 
 ### AROC_PL Team
 
