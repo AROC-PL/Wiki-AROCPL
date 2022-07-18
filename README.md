@@ -66,6 +66,4 @@ Pada rancangan mekanik, Robot AROC_PL memiliki tinggi 51 cm, dengan panjang kaki
 
 [//]: # (Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 )
 
-Writer : Zumrotus Sholihah
-
-Maintainer : Iwan Dwi Purwanto (iwan.dwp@gmail.com)
+Writer : Zumrotus Sholihah (szumrotus25@gmail.com)
