@@ -9,14 +9,14 @@ Kontes Robot Indonesia merupakan kegiatan kompetisi yang ditujukan untuk para ma
 
 ### KRSBI - Humanoid
 <p align="center" >
-<img src="https://github.com/zuramaruu/Delta456/blob/master/img/aroc.JPG" width="300" alt="aroc">
+<img src="https://drive.google.com/file/d/1InV6iqIB2C1jkB5pR8Zt6pTbb-Ll6zUK/view?usp=sharing" width="300" alt="aroc">
 </p>
 
 Kontes Robot Sepak Bola Indonesia (KRSBI) Humanoid merupakan divisi lomba yang mengacu pada KidSize RoboCup Soccer Humanoid League. Robot Humanoid adalah robot dengan tampilan umum menyerupai tubuh manusia dengan struktur tubuh berupa kepala, dua tangan , dan dua kaki. Robot Humanoid dilengkapi dengan kecerdasan buatan yang memungkinkan untuk robot melakukan interaksi seperti manusia.
 
 ### AROC_PL Team
 
-[//]: # (<img src="https://drive.google.com/file/d/1loEV-a4XKucrKhnurl5bk85IJdgNl935/view?usp=sharing" alt="github logo">)
+[//]: # (<img src="https://drive.google.com/file/d/1zw_giAPoPTg-q66fhhOIfKU5idL2iwK3/view?usp=sharing" alt="github logo">)
 
 ## [<img src="https://github.com/zuramaruu/Delta456/blob/master/img/latest.png" width="100px">](https://github.com/AROC-PL)
 Tim AROC_PL (Advance Robot Soccer Polinema) merupakan salah satu tim robot Politeknik Negeri Malang yang fokus pada KRI (Kontes Robot Indonesia) untuk divisi Humanoid Soccer Robot. Tim AROC_PL berdiri mulai tahun 2019 dengan fokus utama yaitu robot humanoid yang dapat bermain sepak bola. Dalam membangun sistem robotika agar mampu bermain sepak bola, tim AROC_PL dibagi menjadi 3 divisi, yaitu divisi Image Processing, divisi Communication, dan divisi Maneuvering. 
